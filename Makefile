@@ -1,0 +1,2 @@
+#!/bin/bash
+python CG_hw1.py $1 $2 $3
